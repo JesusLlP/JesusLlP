@@ -1,6 +1,6 @@
-Hola, soy Jesús Llasaca, un estudiante de Ingeniería de Software con enfoque en Inteligencia Artificial. Mi entusiasmo y habilidades me llevan a la búsqueda de oportunidades de prácticas para aplicar mis conocimientos y aprender de manera colaborativa.
+👋Hola, soy Jesús Llasaca, un estudiante de Ingeniería de Software con enfoque en Inteligencia Artificial. Mi entusiasmo y habilidades me llevan a la búsqueda de oportunidades de prácticas para aplicar mis conocimientos y aprender de manera colaborativa.
 
-**MIS CONOCIMIENTOS:**
+**MIS CONOCIMIENTOS:**👇
 - **Lenguajes de Programación:**
   - Java
   - Python
