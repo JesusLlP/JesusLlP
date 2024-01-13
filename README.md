@@ -17,6 +17,7 @@
 - **Desarrollo Web:**
   - HTML & CSS
   - Apache
+  - WordPress (utilizando Bricks Builder)
   
 - **Bases de Datos:**
   - SQL
