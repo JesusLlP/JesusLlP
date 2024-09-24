@@ -15,23 +15,24 @@
   - .NET
   
 - **Desarrollo Web:**
-  - HTML & CSS
-  - Apache
-  - WordPress (utilizando Bricks Builder)
+  - HTML / CSS / JavaScript
+  - Apache / Nginx
+  - WordPress (utilizando Bricks Builder - elementor)
   
 - **Bases de Datos:**
-  - SQL
+  - MySQL
   - MongoDB
   - SQL Server
+  - Firebase
   
 - **Herramientas y Entornos:**
   - Visual Studio
   - Visual Studio Code
   - NetBeans
   - MySQL Workbench
-  - Star UML
-  - Maquinas Virtuales
-  - Linux (comandos en Ubuntu)
+  - Star UML / PlantUML
+  - Maquinas Virtuales / Dockers
+  - GNU Linux (comandos en Ubuntu - panel de webs)
 
 ## Contact me:
 
