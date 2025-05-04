@@ -4,15 +4,14 @@
 - **Lenguajes de Programación:**
   - Java
   - Python
-  - PHP
   - JavaScript
   - C#
   
 - **Frameworks y Tecnologías:**
   - Angular
   - WPF (Windows Presentation Foundation)
-  - Laravel
   - .NET
+  - Spring Boot
   
 - **Desarrollo Web:**
   - HTML / CSS / JavaScript
@@ -24,6 +23,7 @@
   - MongoDB
   - SQL Server
   - Firebase
+  - Postgres
   
 - **Herramientas y Entornos:**
   - Visual Studio
